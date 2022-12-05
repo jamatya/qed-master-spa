@@ -1,0 +1,36 @@
+.footer-body
+{    
+    width: 100%;
+   
+}
+footer {
+    text-align: center;
+    margin-top: 8px;
+    display: flex;
+    align-items: center;
+    line-height: 20px;
+    background-color:#005E85;
+    color: white;
+  }
+
+  /*footer a {
+    display: flex;
+    align-items: center;
+  }*/
+.cust-footer-bar
+{
+    
+    height:40px;
+    padding: 10px; 
+}
+
+.cust-footer-msg
+{
+    font-size: 12px
+}
+
+.cust-footer-span
+{
+    color: white; 
+    padding-right: 20px;          
+}
