@@ -34,3 +34,17 @@ footer {
     color: white; 
     padding-right: 20px;          
 }
+
+a
+{
+  color: #fff;
+}
+a:visited,
+a:hover {
+  color: #6ea9e4;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #9bc8f5;
+}
